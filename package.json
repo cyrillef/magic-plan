@@ -1,0 +1,31 @@
+{
+  "name": "propertyServer",
+  "version": "1.0.0",
+  "description": "Forge Model PropertyServer to workaround teh Model Derivative API limitations",
+  "main": "start.js",
+  "scripts": {
+    "start": "NODE_ENV=production node start.js",
+    "dev": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyrillef/propertyServer.git"
+  },
+  "author": "Cyrille Fauvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyrillef/propertyServer/issues"
+  },
+  "homepage": "https://github.com/cyrillef/propertyServer#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "4.15.3",
+    "forge-apis": "0.4.0",
+    "mailjet-sendemail": "^1.1.4",
+    "mkdirp": "^0.5.1",
+    "moment": "~> 2.19.3",
+    "querystring": "^0.2.0",
+    "request": "^2.85.0",
+    "rimraf": "^2.6.1"
+  }
+}
