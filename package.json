@@ -1,7 +1,7 @@
 {
   "name": "magic-plan",
   "version": "1.0.0",
-  "description": "magic-plan",
+  "description": "Magic-Plan XML extraction sample",
   "main": "start.js",
   "scripts": {
     "start": "NODE_ENV=production node start.js",
