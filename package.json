@@ -1,7 +1,7 @@
 {
-  "name": "propertyServer",
+  "name": "magic-plan",
   "version": "1.0.0",
-  "description": "Forge Model PropertyServer to workaround teh Model Derivative API limitations",
+  "description": "magic-plan",
   "main": "start.js",
   "scripts": {
     "start": "NODE_ENV=production node start.js",
@@ -14,9 +14,9 @@
   "author": "Cyrille Fauvel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cyrillef/propertyServer/issues"
+    "url": "https://github.com/cyrillef/magic-plan/issues"
   },
-  "homepage": "https://github.com/cyrillef/propertyServer#readme",
+  "homepage": "https://github.com/cyrillef/magic-plan#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "4.15.3",
