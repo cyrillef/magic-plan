@@ -1,0 +1,14 @@
+{
+	"name": "magic-plan",
+	"description": "Magic-Plan XML extraction sample",
+	"repository": "https://github.com/cyrillef/magic-plan.git",
+	"keywords": [
+		"node",
+		"forge",
+		"autodesk"
+	],
+	"website": "https://developer.autodesk.com/",
+	"env": {
+		
+	}
+}
