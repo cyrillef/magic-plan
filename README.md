@@ -63,7 +63,7 @@ which would update/install automatically via 'npm':
    <br />
    <b>Note:</b> the port argument can be omitted and default to port 80. If port 80 is already in use by another
    application (like Skype, or IIS, or Apache, ...), you can use any other free port such as 8000, 3000, etc...
-   
+6. Ask magic-plan to update the webhook URL to point to your server.
    --------
 
 ## License
